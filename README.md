@@ -1,2 +1,2 @@
 # mc-mod-manager
-Minecraft mod pack manager made in PowerShell
+Minecraft mod pack manager made in Python
